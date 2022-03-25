@@ -1,0 +1,14 @@
+C:\Users\Todor Shestakov\Desktop\Softuni programming basic with C#\1.FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\4.VegetableMarket\bin\Debug\netcoreapp3.1\4.VegetableMarket.exe
+C:\Users\Todor Shestakov\Desktop\Softuni programming basic with C#\1.FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\4.VegetableMarket\bin\Debug\netcoreapp3.1\4.VegetableMarket.deps.json
+C:\Users\Todor Shestakov\Desktop\Softuni programming basic with C#\1.FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\4.VegetableMarket\bin\Debug\netcoreapp3.1\4.VegetableMarket.runtimeconfig.json
+C:\Users\Todor Shestakov\Desktop\Softuni programming basic with C#\1.FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\4.VegetableMarket\bin\Debug\netcoreapp3.1\4.VegetableMarket.runtimeconfig.dev.json
+C:\Users\Todor Shestakov\Desktop\Softuni programming basic with C#\1.FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\4.VegetableMarket\bin\Debug\netcoreapp3.1\4.VegetableMarket.dll
+C:\Users\Todor Shestakov\Desktop\Softuni programming basic with C#\1.FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\4.VegetableMarket\bin\Debug\netcoreapp3.1\4.VegetableMarket.pdb
+C:\Users\Todor Shestakov\Desktop\Softuni programming basic with C#\1.FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\4.VegetableMarket\obj\Debug\netcoreapp3.1\4.VegetableMarket.csproj.AssemblyReference.cache
+C:\Users\Todor Shestakov\Desktop\Softuni programming basic with C#\1.FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\4.VegetableMarket\obj\Debug\netcoreapp3.1\4.VegetableMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Todor Shestakov\Desktop\Softuni programming basic with C#\1.FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\4.VegetableMarket\obj\Debug\netcoreapp3.1\4.VegetableMarket.AssemblyInfoInputs.cache
+C:\Users\Todor Shestakov\Desktop\Softuni programming basic with C#\1.FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\4.VegetableMarket\obj\Debug\netcoreapp3.1\4.VegetableMarket.AssemblyInfo.cs
+C:\Users\Todor Shestakov\Desktop\Softuni programming basic with C#\1.FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\4.VegetableMarket\obj\Debug\netcoreapp3.1\4.VegetableMarket.csproj.CoreCompileInputs.cache
+C:\Users\Todor Shestakov\Desktop\Softuni programming basic with C#\1.FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\4.VegetableMarket\obj\Debug\netcoreapp3.1\4.VegetableMarket.dll
+C:\Users\Todor Shestakov\Desktop\Softuni programming basic with C#\1.FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\4.VegetableMarket\obj\Debug\netcoreapp3.1\4.VegetableMarket.pdb
+C:\Users\Todor Shestakov\Desktop\Softuni programming basic with C#\1.FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\4.VegetableMarket\obj\Debug\netcoreapp3.1\4.VegetableMarket.genruntimeconfig.cache

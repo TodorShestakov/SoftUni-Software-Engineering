@@ -1,0 +1,14 @@
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\9.YardGreening\bin\Debug\netcoreapp3.1\9.YardGreening.exe
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\9.YardGreening\bin\Debug\netcoreapp3.1\9.YardGreening.deps.json
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\9.YardGreening\bin\Debug\netcoreapp3.1\9.YardGreening.runtimeconfig.json
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\9.YardGreening\bin\Debug\netcoreapp3.1\9.YardGreening.runtimeconfig.dev.json
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\9.YardGreening\bin\Debug\netcoreapp3.1\9.YardGreening.dll
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\9.YardGreening\bin\Debug\netcoreapp3.1\9.YardGreening.pdb
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\9.YardGreening\obj\Debug\netcoreapp3.1\9.YardGreening.csproj.AssemblyReference.cache
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\9.YardGreening\obj\Debug\netcoreapp3.1\9.YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\9.YardGreening\obj\Debug\netcoreapp3.1\9.YardGreening.AssemblyInfoInputs.cache
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\9.YardGreening\obj\Debug\netcoreapp3.1\9.YardGreening.AssemblyInfo.cs
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\9.YardGreening\obj\Debug\netcoreapp3.1\9.YardGreening.csproj.CoreCompileInputs.cache
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\9.YardGreening\obj\Debug\netcoreapp3.1\9.YardGreening.dll
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\9.YardGreening\obj\Debug\netcoreapp3.1\9.YardGreening.pdb
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\9.YardGreening\obj\Debug\netcoreapp3.1\9.YardGreening.genruntimeconfig.cache

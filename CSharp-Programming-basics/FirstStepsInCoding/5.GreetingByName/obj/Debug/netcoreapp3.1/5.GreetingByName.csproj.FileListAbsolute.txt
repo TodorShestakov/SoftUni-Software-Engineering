@@ -1,0 +1,13 @@
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\5.GreetingByName\bin\Debug\netcoreapp3.1\5.GreetingByName.exe
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\5.GreetingByName\bin\Debug\netcoreapp3.1\5.GreetingByName.deps.json
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\5.GreetingByName\bin\Debug\netcoreapp3.1\5.GreetingByName.runtimeconfig.json
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\5.GreetingByName\bin\Debug\netcoreapp3.1\5.GreetingByName.runtimeconfig.dev.json
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\5.GreetingByName\bin\Debug\netcoreapp3.1\5.GreetingByName.dll
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\5.GreetingByName\bin\Debug\netcoreapp3.1\5.GreetingByName.pdb
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\5.GreetingByName\obj\Debug\netcoreapp3.1\5.GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\5.GreetingByName\obj\Debug\netcoreapp3.1\5.GreetingByName.AssemblyInfoInputs.cache
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\5.GreetingByName\obj\Debug\netcoreapp3.1\5.GreetingByName.AssemblyInfo.cs
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\5.GreetingByName\obj\Debug\netcoreapp3.1\5.GreetingByName.csproj.CoreCompileInputs.cache
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\5.GreetingByName\obj\Debug\netcoreapp3.1\5.GreetingByName.dll
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\5.GreetingByName\obj\Debug\netcoreapp3.1\5.GreetingByName.pdb
+C:\Softuni programming basic with C#\FirstStepsInProgrammingLecture\FirstStepsinCodingLecture\5.GreetingByName\obj\Debug\netcoreapp3.1\5.GreetingByName.genruntimeconfig.cache
