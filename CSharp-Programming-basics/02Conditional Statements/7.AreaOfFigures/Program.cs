@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lecture
+namespace _7.Area_of_Figures
 {
     class Program
     {
@@ -27,14 +27,15 @@ namespace Lecture
             else if (figure == "circle")
             {
                 double r = double.Parse(Console.ReadLine());
-                result = r * r * Math.PI;
+                result = Math.PI * r * r;
+
             }
 
             else if (figure == "triangle")
             {
                 double a = double.Parse(Console.ReadLine());
-                double ha = double.Parse(Console.ReadLine());
-                result = (a * ha) / 2;
+                double h = double.Parse(Console.ReadLine());
+                result = (a * h) / 2;
             }
 
 
